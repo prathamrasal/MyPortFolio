@@ -4320,8 +4320,7 @@ button {
     -webkit-font-smoothing: antialiased
 }
 
-img,
-video {
+img {
     max-width: 100%;
     height: auto
 }
@@ -7110,6 +7109,20 @@ input::-moz-focus-inner {
     background: #000
 }
 
+
+/* Adding Video CSS */
+
+#myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+/* End */
+
 .home-content {
     display: table-cell;
     width: 100%;
@@ -7384,7 +7397,7 @@ html.cl-loaded .home-content__main {
         display: none
     }
     .home-content__main {
-        padding-top: 21rem;
+        padding-top: 15rem;
         padding-right: 80px;
         max-width: 680px
     }
