@@ -7115,9 +7115,7 @@ input::-moz-focus-inner {
     width: 100%;
     height: 100%;
     vertical-align: middle;
-    /* background-image: url(../images/hero-bg.jpg); */
     background-image: url(https://image.freepik.com/free-photo/abstract-digital-grid-black-background_53876-97647.jpg);
-    /* background-image: url(https://ak4.picdn.net/shutterstock/videos/29423944/thumb/1.jpg); */
     background-size: cover;
     padding-bottom: 15.6rem;
     position: relative;
